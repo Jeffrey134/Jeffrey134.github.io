@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jeffrey Li"
 description              : "<center>M.S. Student of FDU</center>"
-repository               : "Anonytt/Anonytt.github.io"
+repository               : "Anonytt/jeffrey134.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
-  email            : " 1340504127@m.fudan.edu.cn"
+  email            : " 1340504127@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
