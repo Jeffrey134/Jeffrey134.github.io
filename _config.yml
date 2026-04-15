@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Zheng (郑益)"
-description              : "<center>M.S. Student of EMW Lab</center>"
+title                    : "Jeffrey Li"
+description              : "<center>M.S. Student of FDU</center>"
 repository               : "Anonytt/Anonytt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Yi Zheng</center>\n<center>郑益</center>"
+  name             : "<center>Jeffrey Li</center>\n<center>Jeffrey</center>"
   avatar           : "images/ZY.jpg"
   bio              : "<center>Fudan University</center>"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
-  email            : " zhengyi24@m.fudan.edu.cn"
+  email            : " 1340504127@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :

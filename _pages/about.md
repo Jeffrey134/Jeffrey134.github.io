@@ -39,11 +39,8 @@ Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(中科院一�
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
 - *2021.05*, China Collegiate Programming Contest(CCPC Invitation), **Silver Medal**, Xiangtan.
 
-# 🤝 Mentoring
-I am very lucky to work with the following talented students:
+# 🤝 Coperation
 
-- [Yiqing Sun(孙以清)], B.Sc@Fudan, now M.S student@Fudan.
-- [Zhendong Xie(谢正东)], B.Sc@Fudan, now M.S student@UCAS.
 
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
