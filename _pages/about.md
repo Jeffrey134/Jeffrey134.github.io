@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) 
+I am a M.S. student at [the Department of Communication Science and Engineering] of [Fudan University](https://www.fudan.edu.cn/) 
 
 
 My current research focus on computer vision and deep learning. Always happy to connect and collaborate on related research.
