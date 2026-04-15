@@ -30,22 +30,21 @@ My current research focus on computer vision and deep learning. Always happy to 
 ## Preprint
 - **MoEDEM: Generation of Lunar High-Resolution DEM and Extraction of Surface Roughness** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(中科院一区Top, IF:12.2). <br>
+Under Review in ISPRS Journal of Photogrammetry and Remote Sensing. <br>
 [[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 
 # 🎖 Honor
-<!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
-- *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
-- *2021.05*, China Collegiate Programming Contest(CCPC Invitation), **Silver Medal**, Xiangtan.
+
+- *2022.12*, National Scholarship.
+
 
 # 🤝 Coperation
 
 
 # 📖 Education
-- *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
-- *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
-- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
+- *2025.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
+- *2021.09 - 2025.06*. Undergraduate, Electronic and electrical engineering, Southwest Jiaotong University, Chengdu.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
