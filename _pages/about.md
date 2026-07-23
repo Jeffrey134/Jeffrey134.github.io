@@ -25,14 +25,11 @@ My current research focus on computer vision and deep learning. Always happy to 
 # 🔥 News
 - *2025.09*: &nbsp; Start my academic journey at FDU. 
 
-# 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 ## Preprint
-- **MoEDEM: Generation of Lunar High-Resolution DEM and Extraction of Surface Roughness** <br>
- **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in ISPRS Journal of Photogrammetry and Remote Sensing. <br>
-[[Paper]](./resources/preprint/TGRS-2503.pdf)
-
+- **LunarOS-Mini: A Two-Stage Decoupled Visual Language Model for Lunar SAR Imagery** <br>
+ **APGRASS--Oral. <br>
 
 # 🎖 Honor
 
@@ -40,7 +37,7 @@ Under Review in ISPRS Journal of Photogrammetry and Remote Sensing. <br>
 
 
 # 🤝 Coperation
-
+- *2026.6*, Cooperating with China Unicom Shanghai AI Research Institute.
 
 # 📖 Education
 - *2025.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
