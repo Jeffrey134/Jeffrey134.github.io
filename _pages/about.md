@@ -22,10 +22,6 @@ I am an M.S. student in Electronic Science and Technology at [Fudan University](
 
 My current research focuses on computer vision, deep learning, and multimodal visual-language models. Always happy to connect and collaborate on related research.
 
-# 🔥 News
-{: #news}
-- *2025.09*: &nbsp; Start my academic journey at FDU. 
-
 # 📝 Research
 {: #research}
 
@@ -40,6 +36,15 @@ My current research focuses on computer vision, deep learning, and multimodal vi
 
 - *2025.06 - 2025.08*, Artificial Intelligence Algorithm Engineer Intern, Haikan Network Technology Co., Ltd. (listed company). <br>
   Worked on an AIGC real-time painting product, including LoRA model training and optimization, ONNX conversion, deployment adaptation, and generative AI product implementation.
+
+# 🛠 Projects
+{: #projects}
+
+- **Intelligent Robotic Cube-Solving System** <br>
+  Built a multi-view visual perception and dual-arm control system for autonomous Rubik's Cube solving, integrating image preprocessing, illumination calibration, constrained clustering, two-phase solving algorithms, motion sequence optimization, and S-curve trajectory control.
+
+- **Cloud-Based New Energy Vehicle Charging Diagnostics and Data Analytics Platform** <br>
+  Developed a cloud-oriented diagnostic workflow that extracts and packages interaction data between the onboard Battery Management System (BMS) and charging piles during charging, performs protocol parsing and algorithmic analysis on the cloud platform, and delivers structured diagnostic outputs through front-end visualization.
 
 # 🎖 Honors
 {: #honors}
@@ -58,10 +63,10 @@ My current research focuses on computer vision, deep learning, and multimodal vi
 - *2025.09 - 2028.06*, M.S., Electronic Science and Technology, Fudan University, Shanghai.
 - *2021.09 - 2025.06*, B.Eng., Electronic and Electrical Engineering, SWJTU-Leeds Joint School, Southwest Jiaotong University, Chengdu.
 
-# 🌐 English
-{: #english}
+# 🌐 Language
+{: #language}
 
-- CET-6: 626.
+- English: CET-6, 626.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

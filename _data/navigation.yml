@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#news"
-
   - title: "Research"
     url: "/#research"
 
   - title: "Experience"
     url: "/#experience"
+
+  - title: "Projects"
+    url: "/#projects"
 
   - title: "Honors"
     url: "/#honors"
@@ -21,8 +21,8 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "English"
-    url: "/#english"
+  - title: "Language"
+    url: "/#language"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
