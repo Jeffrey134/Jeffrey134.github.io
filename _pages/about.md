@@ -50,7 +50,7 @@ My current research focuses on computer vision, deep learning, and multimodal vi
 {: #honors}
 
 - National Scholarship.
-- Fudan University Hua Hong Scholarship.
+- Fudan University HuaHong Scholarship.
 - Outstanding Student of Fudan University.
 - Outstanding Student Model, top 1%.
 - Provincial Outstanding Graduate.
